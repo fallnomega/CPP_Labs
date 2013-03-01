@@ -1,0 +1,18 @@
+// Lab 1a
+// Programmer: Jason Hillin
+// Editor(s) used: JNotepad
+// Compiler(s) used: VC++ 2010 Express
+//
+
+1 - Set total to zero
+2 - Set grade counter to one
+3 - 
+4 - While grade counter is less than or equal to ten
+5 - Prompt the user to enter the next grade
+6 - Input the next grade
+7 - Add the grade into the total
+8 - Add one to the grade counter
+9 - 
+10 - Set the class average to the total divided by ten 
+11 - Print the total of the grafes for all students in the class
+12 - Print the class average
